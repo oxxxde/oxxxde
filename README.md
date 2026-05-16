@@ -1,2 +1,2 @@
 ## Hi there 👋
-https://count.getloli.com/@oxxxde
+<img src="https://count.getloli.com/@oxxxde" alt="oxxxde" />
